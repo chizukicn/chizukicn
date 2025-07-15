@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Chizuki**(cn), a front-end `Worker` from China.
+I'm **Chizuki**(cn), a `Worker` from China.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
